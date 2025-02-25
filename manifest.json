@@ -1,5 +1,5 @@
 {
-    "name" : "Odoo 18 debug mode",
+    "name" : "Odoo 18 Debug",
     "version" : "1.0.0",
     "description" : "Enable developer mode in odoo 18 easily",
     "manifest_version" : 3,
