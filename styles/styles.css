@@ -7,7 +7,7 @@
 body{
     width: 200px;
     height: 100%;
-    background: #714B67;
+    background: #fff;
     padding: 5px 10px;
     display: flex;
     justify-content: center;
@@ -17,10 +17,17 @@ body{
 button{
     margin-top: 5px;
     cursor: pointer;
-    background: #fff;
-    color: #714B67;
+    background: #714B67;
+    color: #fff;
     padding: 4px 0px;
-    border-radius: 5px;
+    border: 2px solid #714B67;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover{
+    background: #fff;
+    border: 2px solid #714B67;
+    color: #714B67;
 }
 
 button:nth-child(4){
