@@ -1,7 +1,7 @@
 {
-    "name" : "Odoo 18 Debug",
+    "name" : "Odoo Debugger",
     "version" : "1.0.0",
-    "description" : "Enable developer mode in odoo 18 easily",
+    "description" : "Enhance Your Odoo Development Experience",
     "manifest_version" : 3,
     "author" : "SandaruwanB",
     "permissions" : [
@@ -10,6 +10,6 @@
     ],
     "action" : {
         "default_popup" : "pages/index.html",
-        "default_title" : "Odoo 18 debugger"
+        "default_title" : "Odoo debugger"
     }
 }
